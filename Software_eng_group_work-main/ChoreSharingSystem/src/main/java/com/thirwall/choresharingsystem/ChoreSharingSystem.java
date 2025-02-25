@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.thirwall.choresharingsystem;
+package com.Oli200.choresharingsystem;
 
 /**
  *
- * @author thura
+ * @author Oli2000
  */
 public class ChoreSharingSystem {
 
